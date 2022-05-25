@@ -1,0 +1,31 @@
+.heading{
+    width: 80%;
+    font-size: 30px;
+    color: yellow;
+    background-color: black;
+}
+body{
+    background: linear-gradient(rgb(218, 89, 89),rgb(104, 213, 232),rgb(221, 80, 221));
+}
+.members{
+color: darkblue;
+font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+font-style: italic;
+}
+p{
+    color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+#result, #camera{
+border: 5px solid white;
+width: 400px;
+height: 350px;
+border-radius: 30px;
+}
+#member_name, #member_accuracy{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
